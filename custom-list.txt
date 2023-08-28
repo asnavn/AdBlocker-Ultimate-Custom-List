@@ -1,6 +1,6 @@
-! Version: 2023.08.24.22
+! Version: 2023.08.28.21
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 24 Aug 2023 10:51pm
+! Last modified: 28 Aug 2023 10:51pm
 
 animevietsub.moe##.announcement,.Ads,.ad-center-header,.pc-catfixx,.mobile-catfixx
 animevietsub.moe##div[class="Dvr-300"]
@@ -8,6 +8,7 @@ cadtutor.net##.below-page-header,.after-first-post,.above-page-footer
 hdvip.tv##.rightleftads
 hhtq.vip##[id*="topbanner-img"]
 hhtq.vip##[id*="catfish"]
+hhtqtv.xyz##.cat-fish
 hhvsub.com##.cat-fish
 hoathinhtq.tv###popup-giua-man-hinh,#catfish
 kenh14.vn##.trendAd-wrapper,.knswli,.done-get-sticker
