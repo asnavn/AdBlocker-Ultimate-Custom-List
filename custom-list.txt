@@ -1,12 +1,21 @@
 [Adblock Plus 2.0]
-! Version: 2023.09.02.22
+! Version: 2023.09.03.14
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 02 Sep 2023 10:14pm
+! Last modified: 03 Sep 2023 02:41pm
 ! Expires: 1 days (update frequency)
 
+! General rules
+###antiAdblock
+
+! Rules for a specific website
+animehay.tv,animehay.live,animehay.pro,animehay.city,animehay.com##.ah_content > div#top-banner
+animehay.tv,animehay.live,animehay.pro,animehay.city,animehay.com##.ah_footer,.noti-warning
+animehay.tv,animehay.live,animehay.pro,animehay.city,animehay.com##div[style="position: fixed; bottom: 0px; z-index: 98; width: 100%; text-align: center; box-sizing: border-box;"]
 animevietsub.moe##.announcement,.Ads,.ad-center-header,.pc-catfixx,.mobile-catfixx
 animevietsub.moe##div[class="Dvr-300"]
 cadtutor.net##.below-page-header,.after-first-post,.above-page-footer
+congphim.net###ads_preload,.cplayer-text-track-display
+congphim.net##div.boxed:nth-child(4) > section.content:last-child > center:first-child > a > img.img-responsive
 hdvip.tv##.rightleftads
 hhtq.vip##[id*="topbanner-img"]
 hhtq.vip##[id*="catfish"]
@@ -30,6 +39,9 @@ voz.vn#?#div:has(> div[class^="div-pw-"])
 vnexpress.net##.box-raovat-v2
 vnexpress.net##.box-shop-sell
 
+||congphim.net/upload/video/2023/digitalmaster.mp4
+||congphim.net/upload/video/2023/67a5cf66f56d5f8249a553164d09c9f8-2023-07-13.mp4
+||dl.domersprunk.com/rApNlyhBprjM/VlQEN
 ||flixtor.video/loadmez/com/coldvain/ea/d5/72/ead572ab165aad9a839a6c6d01599200.js
 ||hoathinhtq.tv/js/vast.js
 ||onlinetexttools.com/CACHE/js/discount.js
