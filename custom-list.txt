@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2023.09.03.14
+! Version: 2023.09.03.18
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 03 Sep 2023 02:41pm
+! Last modified: 03 Sep 2023 06:05pm
 ! Expires: 1 days (update frequency)
 
 ! General rules
@@ -19,8 +19,8 @@ congphim.net##div.boxed:nth-child(4) > section.content:last-child > center:first
 hdvip.tv##.rightleftads
 hhtq.vip##[id*="topbanner-img"]
 hhtq.vip##[id*="catfish"]
-hhtqtv.com,hhtqtv.co,hhtqtv.cc,hhtqtv.xyz###sponsor-balloon
-hhtqtv.com,hhtqtv.co,hhtqtv.cc,hhtqtv.xyz###ah_wrapper > div.ah_content:nth-child(4) > div.ah-frame-bg:first-child
+hhchina.tv,hhtqtv.com,hhtqtv.co,hhtqtv.cc,hhtqtv.xyz###sponsor-balloon
+hhchina.tv,hhtqtv.com,hhtqtv.co,hhtqtv.cc,hhtqtv.xyz###ah_wrapper > div.ah_content:nth-child(4) > div.ah-frame-bg:first-child
 hhvsub.com##.cat-fish
 hoathinhtq.tv###popup-giua-man-hinh,#catfish
 kenh14.vn##.trendAd-wrapper,.knswli,.done-get-sticker
@@ -39,8 +39,7 @@ voz.vn#?#div:has(> div[class^="div-pw-"])
 vnexpress.net##.box-raovat-v2
 vnexpress.net##.box-shop-sell
 
-||congphim.net/upload/video/2023/digitalmaster.mp4
-||congphim.net/upload/video/2023/67a5cf66f56d5f8249a553164d09c9f8-2023-07-13.mp4
+||congphim.net/upload/video/2023/^*.mp4
 ||dl.domersprunk.com/rApNlyhBprjM/VlQEN
 ||flixtor.video/loadmez/com/coldvain/ea/d5/72/ead572ab165aad9a839a6c6d01599200.js
 ||hoathinhtq.tv/js/vast.js
