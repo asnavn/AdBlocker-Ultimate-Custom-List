@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2023.09.03.19
+! Version: 2023.09.04.14
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 03 Sep 2023 07:10pm
+! Last modified: 04 Sep 2023 02:47pm
 ! Expires: 1 days (update frequency)
 
 ! General rules
@@ -28,9 +28,13 @@ kenh14.vn##.Kenh14Player-overlay
 m.kenh14.vn##.adv-box,.kwlistick,.done-get-sticker
 m.kenh14.vn###admMicrositeBlock
 magiamgiashopee.vn##.elementor-popup-modal,.pgg-ext-banner,.pgg_ext_zone
+nettruyenco.vn##.reading > div.container > div.text-center
+nettruyenco.vn##main.main > div.container > div.text-center
+nettruyenco.vn##.copyright > img
 pastebin.com##.popup-container
 tinhte.vn##.micro,.adWidget,.khaosat-container,.in-article-promo,.middle-comment-promotion
 tinhte.vn#?#div:has(> div[class$="item"][style^="width:"])
+truyenqqq.vn###ad_info,#ad_info_top
 tutorialspoint.com##.layout-panel-east
 voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
