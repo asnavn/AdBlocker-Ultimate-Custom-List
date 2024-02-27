@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2023.09.04.14
+! Version: 2024.02.27.22
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 04 Sep 2023 02:47pm
+! Last modified: 27 Feb 2024 10:04pm
 ! Expires: 1 days (update frequency)
 
 ! General rules
@@ -16,6 +16,10 @@ animevietsub.moe,animevietsub.fan##div[class="Dvr-300"]
 cadtutor.net##.below-page-header,.after-first-post,.above-page-footer
 congphim.net###ads_preload,.cplayer-text-track-display
 congphim.net##div.boxed:nth-child(4) > section.content:last-child > center:first-child > a > img.img-responsive
+hdvietnam.xyz##.ads_pc
+hdvietnam.xyz##div[class="widget WidgetFramework_WidgetRenderer_ShareThisPage"]
+hdvietnam.xyz##div[class="PanelScroller Notices"]
+hdvietnam.xyz##iframe[src="https://www.hdvietnam.me/pages/top-bai/"]
 hdvip.tv##.rightleftads
 hhtq.vip##[id*="topbanner-img"]
 hhtq.vip##[id*="catfish"]
