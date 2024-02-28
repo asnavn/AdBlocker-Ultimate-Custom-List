@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2024.02.27.22
+! Version: 2024.02.28.23
 ! Title: AdBlocker Ultimate Custom List
-! Last modified: 27 Feb 2024 10:04pm
+! Last modified: 28 Feb 2024 11:04pm
 ! Expires: 1 days (update frequency)
 
 ! General rules
@@ -36,6 +36,7 @@ nettruyenco.vn##.reading > div.container > div.text-center
 nettruyenco.vn##main.main > div.container > div.text-center
 nettruyenco.vn##.copyright > img
 pastebin.com##.popup-container
+pdfshelter.com##.fc-ab-root
 tinhte.vn##.micro,.adWidget,.khaosat-container,.in-article-promo,.middle-comment-promotion
 tinhte.vn#?#div:has(> div[class$="item"][style^="width:"])
 truyenqqq.vn###ad_info,#ad_info_top
